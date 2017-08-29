@@ -16,4 +16,5 @@ Archive of libs we use in various situations
 
 # Web backend
 - Django
+  - Django Rest Framework
 - Loopback
