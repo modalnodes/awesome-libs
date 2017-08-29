@@ -9,7 +9,7 @@ Archive of libs we use in various situations
 # iOS
 
 # Web frontend
-- jQuery (https://jquery.com/)
+- [jQuery](https://jquery.com/)
 - Angular4
 - Angular Material
 - Angular Flexbox
